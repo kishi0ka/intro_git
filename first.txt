@@ -5,3 +5,4 @@ Gitの練習を行います。
 
 Git add.
 Git commit
+Git status
